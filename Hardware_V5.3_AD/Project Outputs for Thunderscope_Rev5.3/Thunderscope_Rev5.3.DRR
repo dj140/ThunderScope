@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Thunderscope_Rev5.3.PcbDoc   9/15/2026  10:22:24 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : F.Cu to B.Cu
+ASCII RoundHoles File : Thunderscope_Rev5.3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2801      PTH        5038.65mm (198.37inch)
+T2      0.74mm (29mil)                                            Round             16        PTH        86.07mm (3.39inch)
+T3      0.9mm (35mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T4      1.092mm (43mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T5      1.2mm (47mil)                                             Round             6         PTH        251.49mm (9.90inch)
+T6      1.6mm (63mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T7      2.6mm (102mil)                                            Round             18        PTH        350.84mm (13.81inch)
+T8      3mm (118mil)                                              Round             4         PTH        190.03mm (7.48inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2849
+
+Total Processing Time (hh:mm:ss) : 00:00:00

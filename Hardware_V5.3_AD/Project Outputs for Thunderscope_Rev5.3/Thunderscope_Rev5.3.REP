@@ -1,0 +1,775 @@
+*************************************************************
+FileName = Thunderscope_Rev5.3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : Thunderscope_Rev5.3.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D12
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Edge.Cuts
+      File : Thunderscope_Rev5.3.GKO
+
+    Adding Layer      : Edge.Cuts
+
+
+Used DCodes :
+    D145
+*************************************************************
+
+*************************************************************
+Generating : B.Paste
+      File : Thunderscope_Rev5.3.GBP
+
+    Adding Layer      : B.Paste
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D30
+    D35
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D127
+    D128
+    D129
+    D132
+    D134
+    D135
+    D136
+    D137
+    D138
+    D143
+    D144
+*************************************************************
+
+*************************************************************
+Generating : F.Paste
+      File : Thunderscope_Rev5.3.GTP
+
+    Adding Layer      : F.Paste
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : Thunderscope_Rev5.3.GBS
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D30
+    D35
+    D67
+    D68
+    D69
+    D79
+    D80
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D97
+    D109
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D141
+    D142
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : Thunderscope_Rev5.3.GTS
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : Thunderscope_Rev5.3.GBO
+
+    Adding Layer      : B.SilkS
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.SilkS
+      File : Thunderscope_Rev5.3.GTO
+
+    Adding Layer      : F.SilkS
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Thunderscope_Rev5.3.GPT
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D70
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Thunderscope_Rev5.3.GPB
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D30
+    D35
+    D79
+    D80
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D97
+    D109
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : Thunderscope_Rev5.3.GBL
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D30
+    D35
+    D79
+    D80
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D94
+    D95
+    D97
+    D98
+    D99
+    D100
+    D102
+    D103
+    D105
+    D107
+    D108
+    D109
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : In4.Cu (GND)
+      File : Thunderscope_Rev5.3.G4
+
+    Adding Layer      : In4.Cu (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D103
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : In3.Cu (Sign)
+      File : Thunderscope_Rev5.3.G3
+
+    Adding Layer      : In3.Cu (Sign)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D92
+    D94
+    D98
+    D103
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : In2.Cu (Sign)
+      File : Thunderscope_Rev5.3.G2
+
+    Adding Layer      : In2.Cu (Sign)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : In1.Cu (GND)
+      File : Thunderscope_Rev5.3.G1
+
+    Adding Layer      : In1.Cu (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D103
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : F.Cu
+      File : Thunderscope_Rev5.3.GTL
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D70
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Thunderscope_Rev5.3.GD1
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D94
+    D146
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Thunderscope_Rev5.3.GG1
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Thunderscope_Rev5.3.GM
+
+
+Used DCodes :
+    D147
+*************************************************************
+

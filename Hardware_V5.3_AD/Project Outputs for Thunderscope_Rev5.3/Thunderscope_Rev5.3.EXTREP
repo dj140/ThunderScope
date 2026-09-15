@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Thunderscope_Rev5.3.GBR   9/15/2026  10:22:02 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                F.SilkS                                 
+.GTP                F.Paste                                 
+.GTS                F.Mask                                  
+.GTL                F.Cu                                    
+.G1                 In1.Cu (GND)                            
+.G2                 In2.Cu (Sign)                           
+.G3                 In3.Cu (Sign)                           
+.G4                 In4.Cu (GND)                            
+.GBL                B.Cu                                    
+.GBS                B.Mask                                  
+.GBP                B.Paste                                 
+.GBO                B.SilkS                                 
+.GM1                Mechanical 1                            
+.GKO                Edge.Cuts                               
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

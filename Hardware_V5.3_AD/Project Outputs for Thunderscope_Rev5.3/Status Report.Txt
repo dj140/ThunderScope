@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Thunderscope_Rev5.3.PrjPcb]
+   Generated File[Thunderscope_Rev5.3.TXT]
+   Generated File[Thunderscope_Rev5.3.LDP]
+   Generated File[Thunderscope_Rev5.3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:22:24 AM On 9/15/2026
